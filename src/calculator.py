@@ -2,6 +2,12 @@
 Calculator Module - Basic arithmetic operations
 Students will extend this with more functions
 """
+def multiply(a, b):
+    
+    return a * b
+def divide(a, b):
+
+    return a / b
 
 def add(a, b):
     """Add two numbers together"""
